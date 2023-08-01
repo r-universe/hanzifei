@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "gcKrig"]
-	path = gcKrig
-	url = https://github.com/cran/gcKrig
 [submodule "NPP"]
 	path = NPP
 	url = https://github.com/cran/NPP
+[submodule "gcKrig"]
+	path = gcKrig
+	url = https://github.com/cran/gcKrig
